@@ -12,7 +12,7 @@ namespace EventSource
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
+            //
             //try
             //{
             //    var conn = EventStoreConnection.Create(new Uri("tcp://admin:changeit@localhost:1113"));
